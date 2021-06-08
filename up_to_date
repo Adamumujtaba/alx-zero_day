@@ -1,0 +1,3 @@
+git checkout master
+cd /home/alx-zero_day
+touch up_to_date
